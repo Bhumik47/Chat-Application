@@ -14,7 +14,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Bhumik Dehane",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
